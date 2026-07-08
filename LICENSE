@@ -1,0 +1,99 @@
+# AI Growth OS
+
+Open workflows, prompts, templates, and documentation for AI-assisted marketing, CRM, analytics, and content systems.
+
+This project is built for solo builders, marketers, creators, small businesses, and creative teams who need practical operating systems, not vague advice.
+
+## What this project contains
+
+- AI prompts for marketing, strategy, CRM, analytics, and content workflows
+- reusable templates for audits, briefs, reports, and operating documents
+- workflow documentation for small teams and non-technical users
+- examples for real business use cases
+- lightweight automation ideas and scripts in future versions
+
+## Who it is for
+
+This project is for people who need to build clearer systems around:
+
+- funnel audits
+- customer journey mapping
+- CRM setup
+- analytics reporting
+- content production
+- offer packaging
+- interview preparation
+- client onboarding
+- AI-assisted strategy work
+
+## Why this exists
+
+A lot of teams do not fail because they lack tools.
+
+They fail because their process is unclear.
+
+AI can help, but only when the work is structured: inputs, context, constraints, examples, decision criteria, and next actions.
+
+AI Growth OS is a public knowledge base for turning messy work into repeatable systems.
+
+## Repository structure
+
+```text
+/prompts      AI prompts for repeatable workflows
+/templates    ready-to-use briefs, audits, and reports
+/workflows    step-by-step operating processes
+/examples     practical examples and use cases
+/docs         project notes and principles
+```
+
+## Current status
+
+Early public version.
+
+The goal is to publish small, practical, reusable pieces first, then improve them through real usage and community feedback.
+
+## How to use
+
+1. Pick a workflow or template.
+2. Copy it into your project.
+3. Fill in your context.
+4. Run it with your AI tool of choice.
+5. Adapt the result to your business, client, or creative project.
+
+## Example use cases
+
+- Audit a landing page and funnel before running ads
+- Create a CRM implementation brief
+- Build a monthly marketing report structure
+- Turn raw notes into a clear content system
+- Prepare for a marketing job interview
+- Create a client onboarding process
+
+## Roadmap
+
+- [ ] add more templates for CRM, analytics, and content systems
+- [ ] add examples for B2B, creative businesses, and local services
+- [ ] add small automation scripts
+- [ ] add prompt testing notes
+- [ ] add versioned workflow packs
+- [ ] collect community feedback
+
+## Contributing
+
+Contributions are welcome.
+
+Useful contributions include:
+
+- clearer prompts
+- real-world examples
+- better templates
+- workflow improvements
+- typo fixes
+- translations
+- small automation scripts
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
+
+## License
+
+MIT License.
